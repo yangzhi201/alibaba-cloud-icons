@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PWxIAGgqmAsXcWw13BJe-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.alibaba_cloud_logo;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-450" width="96.60000000000001" height="60" as="geometry" />
+          <mxGeometry x="-80" y="-450" width="64.4" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWxIAGgqmAsXcWw13BJe-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.clb_classic_load_balancer_01;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-450" width="47.400000000000006" height="40.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
