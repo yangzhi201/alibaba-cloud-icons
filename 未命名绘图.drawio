@@ -82,6 +82,13 @@
         <mxCell id="oKK-xmeDvTw8DpgzueOW-18" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.waf_web_application_firewall;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="740" y="-2100.5" width="174.25" height="153" as="geometry" />
         </mxCell>
+        <mxCell id="oKK-xmeDvTw8DpgzueOW-19" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#E07A5F;fontFamily=Helvetica;fontSize=12;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="-1860" as="sourcePoint" />
+            <mxPoint x="200" y="-1860" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
